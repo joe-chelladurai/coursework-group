@@ -10,7 +10,7 @@
 			"version": "none",
 			"installMaven": "true",
 			"mavenVersion": "3.8.6",
-			"installGradle": "false"
+			"installGradle": "true"
 		}
 	},
 
